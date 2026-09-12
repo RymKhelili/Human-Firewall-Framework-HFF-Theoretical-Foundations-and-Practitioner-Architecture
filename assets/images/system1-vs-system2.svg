@@ -1,0 +1,55 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <rect width="900" height="480" fill="#ffffff"/>
+  <text x="450" y="35" text-anchor="middle" font-size="20" font-weight="700" fill="#0f172a">How a Social Engineering Attack Targets Decision-Making</text>
+
+  <!-- incoming stimulus -->
+  <rect x="370" y="60" width="160" height="50" rx="8" fill="#1e293b"/>
+  <text x="450" y="90" text-anchor="middle" font-size="14" fill="#fff">Incoming message / call</text>
+
+  <!-- arrow down to split -->
+  <line x1="450" y1="110" x2="450" y2="140" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- split point -->
+  <circle cx="450" cy="150" r="6" fill="#64748b"/>
+
+  <!-- two branches -->
+  <line x1="450" y1="150" x2="220" y2="200" stroke="#dc2626" stroke-width="2.5" marker-end="url(#arrowRed)"/>
+  <line x1="450" y1="150" x2="680" y2="200" stroke="#0284c7" stroke-width="2.5" marker-end="url(#arrowBlue)"/>
+
+  <!-- System 1 box -->
+  <rect x="90" y="210" width="260" height="170" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="220" y="238" text-anchor="middle" font-size="16" font-weight="700" fill="#991b1b">System 1</text>
+  <text x="220" y="258" text-anchor="middle" font-size="12" fill="#7f1d1d">Fast · automatic · intuitive</text>
+  <text x="110" y="285" font-size="12" fill="#450a0a">• Runs by default on routine input</text>
+  <text x="110" y="305" font-size="12" fill="#450a0a">• Takes messages at face value</text>
+  <text x="110" y="325" font-size="12" fill="#450a0a">• Driven by urgency, authority,</text>
+  <text x="110" y="342" font-size="12" fill="#450a0a">  emotion, social proof</text>
+  <text x="110" y="365" font-size="12" font-weight="700" fill="#991b1b">→ This is what attacks target</text>
+
+  <!-- System 2 box -->
+  <rect x="550" y="210" width="260" height="170" rx="10" fill="#eff6ff" stroke="#0284c7" stroke-width="1.5"/>
+  <text x="680" y="238" text-anchor="middle" font-size="16" font-weight="700" fill="#075985">System 2</text>
+  <text x="680" y="258" text-anchor="middle" font-size="12" fill="#0c4a6e">Slow · deliberate · effortful</text>
+  <text x="570" y="285" font-size="12" fill="#0c4a6e">• Checks and corrects System 1</text>
+  <text x="570" y="305" font-size="12" fill="#0c4a6e">• Requires time + mental capacity</text>
+  <text x="570" y="325" font-size="12" fill="#0c4a6e">• Suppressed by workload,</text>
+  <text x="570" y="342" font-size="12" fill="#0c4a6e">  time pressure, strong emotion</text>
+  <text x="570" y="365" font-size="12" font-weight="700" fill="#075985">→ Ordinary training only reaches this</text>
+
+  <!-- conclusion banner -->
+  <rect x="150" y="410" width="600" height="55" rx="8" fill="#0f172a"/>
+  <text x="450" y="433" text-anchor="middle" font-size="13" fill="#f8fafc" font-weight="600">An attack is engineered to keep the decision in the red box —</text>
+  <text x="450" y="452" text-anchor="middle" font-size="13" fill="#f8fafc" font-weight="600">so defense has to train the red box too, not just the blue one.</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#64748b"/>
+    </marker>
+    <marker id="arrowRed" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#0284c7"/>
+    </marker>
+  </defs>
+</svg>

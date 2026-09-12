@@ -1,3 +1,5 @@
+![The Human Firewall Framework](assets/images/repo-banner.svg)
+
 # The Human Firewall Framework (HFF)
 
 **A research-grounded approach to social engineering defense, built on cognitive science rather than blame and checklists.**
@@ -20,6 +22,8 @@ The project is split into two parts:
 
 A planned Part III will map the HFF's four functions onto specific social engineering attack vectors as a case study.
 
+![From research to practice](assets/images/master-diagram.svg)
+
 ## Why it exists
 
 Both documents are living positions, not finished claims. They're built to be read together: Part I establishes what the evidence says is wrong with conventional awareness training and why; Part II turns that into something a practitioner can actually design and run. Every claim in Part I is sourced to a cited reference; every design choice in Part II is either traced back to a section of Part I or explicitly flagged as reasoned architecture rather than validated outcome data (see Part II, Section 5).
@@ -36,6 +40,14 @@ Both documents are marked as living — expect revisions as the underlying resea
 ├── LICENSE
 ├── CITATION.cff
 ├── CONTRIBUTING.md
+├── .gitignore
+├── assets/
+│   └── images/
+│       ├── repo-banner.svg
+│       ├── master-diagram.svg
+│       ├── system1-vs-system2.svg
+│       ├── four-functions-ring.svg
+│       └── dbir-bar-chart.svg
 └── docs/
     ├── 01-theoretical-foundations.md
     └── 02-human-firewall-framework.md

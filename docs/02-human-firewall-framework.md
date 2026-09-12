@@ -33,6 +33,8 @@ I treat these four points as settled ground, not as claims I need to keep re-arg
 
 ## 2. Framework Architecture: Four Functions
 
+![The four functions of the Human Firewall Framework](../assets/images/four-functions-ring.svg)
+
 Through this synthesis, I've arrived at four functions the HFF has to perform. I present them here as existing side by side — not as sequential stages you complete and move past, and not stacked into a hierarchy of foundation and superstructure. Each one has to be present continuously in a well-built HFF program; the program is only as strong as its weakest function, because a gap in any one of the four undermines the other three in practice, even though they don't run in a strict order.
 
 ### Function 1 — Removing the Blame
