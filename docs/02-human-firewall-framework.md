@@ -97,4 +97,4 @@ I want to close this document the way I opened Part I: by being clear about the 
 
 ---
 
-*Continued in the case-study application: how the Human Firewall Framework's four functions map onto the ten social engineering attack vectors this consultancy addresses.*
+*Continued in Part III — [`03-case-study-application.md`](03-case-study-application.md): how the Human Firewall Framework's four functions map onto ten social engineering attack vectors.*

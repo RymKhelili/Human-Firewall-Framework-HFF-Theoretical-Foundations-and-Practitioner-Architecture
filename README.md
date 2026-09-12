@@ -17,8 +17,9 @@ The project is split into two parts:
 |------|----------|-----------------|
 | I | [`docs/01-theoretical-foundations.md`](docs/01-theoretical-foundations.md) | A literature review across information security, cognitive psychology, and behavioral science — covering the "weakest link" trope, controlled trials of awareness training, Cognitive Security, dual-process theory, persuasion science, memory neuroscience, inoculation theory, and behavior change science. |
 | II | [`docs/02-human-firewall-framework.md`](docs/02-human-firewall-framework.md) | The applied practitioner architecture built from Part I: four functions (removing blame, teaching mechanism over checklist, inoculation through controlled exposure, and engineering for retention), plus a research-driven, adversarially-tested methodology. |
+| III | [`docs/03-case-study-application.md`](docs/03-case-study-application.md) | A worked case study mapping the four HFF functions onto ten social engineering attack vectors, spanning both workplace and individual/family contexts. |
 
-A planned Part III will map the HFF's four functions onto specific social engineering attack vectors as a case study.
+A worked case study (Part III) maps the four HFF functions onto ten specific social engineering attack vectors.
 
 ## Why it exists
 
@@ -39,7 +40,8 @@ Both documents are marked as living — expect revisions as the underlying resea
 ├── .gitignore
 └── docs/
     ├── 01-theoretical-foundations.md
-    └── 02-human-firewall-framework.md
+    ├── 02-human-firewall-framework.md
+    └── 03-case-study-application.md
 ```
 
 ## Citing this work

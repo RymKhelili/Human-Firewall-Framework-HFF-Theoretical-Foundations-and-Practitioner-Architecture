@@ -18,8 +18,10 @@ keywords:
   - behavior change
   - persuasion science
 abstract: >
-  A two-part living document: a literature review challenging the "weakest link"
-  framing and fact-based awareness training in cybersecurity (Part I), and an
+  A three-part living document: a literature review challenging the "weakest link"
+  framing and fact-based awareness training in cybersecurity (Part I); an
   applied practitioner framework, the Human Firewall Framework (HFF), built on
   Cognitive Security, dual-process theory, persuasion science, memory
-  neuroscience, inoculation theory, and behavior change science (Part II).
+  neuroscience, inoculation theory, and behavior change science (Part II); and
+  a worked case study mapping the framework onto ten social engineering
+  attack vectors (Part III).
