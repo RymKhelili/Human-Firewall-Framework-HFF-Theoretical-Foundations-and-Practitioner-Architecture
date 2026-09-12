@@ -3,8 +3,8 @@ message: "If you use or reference this work, please cite it as below."
 title: "The Human Firewall Framework: Theoretical Foundations and Applied Practitioner Architecture"
 type: report
 authors:
-  - family-names: "[Your Last Name]"
-    given-names: "[Your First Name]"
+  - family-names: "[Khelili]"
+    given-names: "[Rym]"
     orcid: "https://orcid.org/0009-0004-1818-6955"
 date-released: 2026-09-11
 license: LicenseRef-AllRightsReserved-LimitedContribution
