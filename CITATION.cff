@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "The Human Firewall Framework: Theoretical Foundations and Applied Practitioner Architecture"
+type: report
+authors:
+  - family-names: "[Your Last Name]"
+    given-names: "[Your First Name]"
+    orcid: "https://orcid.org/0009-0004-1818-6955"
+date-released: 2026-09-11
+license: CC-BY-4.0
+repository-code: "[add your GitHub repository URL here]"
+keywords:
+  - cognitive security
+  - social engineering
+  - security awareness training
+  - dual-process theory
+  - inoculation theory
+  - behavior change
+  - persuasion science
+abstract: >
+  A two-part living document: a literature review challenging the "weakest link"
+  framing and fact-based awareness training in cybersecurity (Part I), and an
+  applied practitioner framework, the Human Firewall Framework (HFF), built on
+  Cognitive Security, dual-process theory, persuasion science, memory
+  neuroscience, inoculation theory, and behavior change science (Part II).
