@@ -27,7 +27,7 @@ Both documents are living positions, not finished claims. They're built to be re
 
 ## Status
 
-Both documents are marked as living — expect revisions as the underlying research base grows and as the framework is tested in practice.
+Both documents are marked as living expect revisions as the underlying research base grows and as the framework is tested in practice.
 
 ## Repository structure
 
@@ -46,7 +46,7 @@ Both documents are marked as living — expect revisions as the underlying resea
 
 ## Citing this work
 
-If you reference this framework or the literature review, please cite it — see [`CITATION.cff`](CITATION.cff) for the machine-readable citation, or cite directly:
+If you reference this framework or the literature review, please cite it see [`CITATION.cff`](CITATION.cff) for the machine-readable citation, or cite directly:
 
 > Rym Khelili. *The Human Firewall Framework: Theoretical Foundations and Applied Practitioner Architecture.* (2026). https://orcid.org/0009-0004-1818-6955
 
