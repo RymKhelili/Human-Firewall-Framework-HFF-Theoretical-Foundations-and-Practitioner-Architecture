@@ -2,6 +2,8 @@
 
 Thanks for your interest in the Human Firewall Framework (HFF). This is a living, research-grounded project, and contributions are welcome — especially ones that strengthen its evidentiary base or stress-test its practical claims.
 
+**A note on licensing:** this repository is all-rights-reserved, not openly licensed (see [`LICENSE`](LICENSE)). Forking is permitted specifically so you can prepare and submit a pull request back to this repository — it isn't a license to redistribute, republish, or reuse the material elsewhere. By submitting a pull request, you agree that your contribution becomes part of this work under the same all-rights-reserved terms, with attribution as a contributor where appropriate.
+
 ## Ways to contribute
 
 - **Point out relevant research** — If you know of a study, meta-analysis, or literature review (published or in preprint) that supports, complicates, or contradicts a claim in Part I, please open an issue with the citation and a short note on where it's relevant.

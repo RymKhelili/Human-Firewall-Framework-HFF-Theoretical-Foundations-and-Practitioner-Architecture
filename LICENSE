@@ -1,23 +1,68 @@
-Creative Commons Attribution 4.0 International Public License
-
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
-
-Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
-
-Summary (not a substitute for the full license):
-
-You are free to:
-  - Share — copy and redistribute the material in any medium or format
-  - Adapt — remix, transform, and build upon the material
-  for any purpose, even commercially.
-
-Under the following terms:
-  - Attribution — You must give appropriate credit, provide a link to the
-    license, and indicate if changes were made. You may do so in any
-    reasonable manner, but not in any way that suggests the licensor
-    endorses you or your use.
-  - No additional restrictions — You may not apply legal terms or
-    technological measures that legally restrict others from doing
-    anything the license permits.
+All Rights Reserved, with Limited Contribution License
 
 Copyright (c) 2026 [Your Name] (ORCID: https://orcid.org/0009-0004-1818-6955)
+
+All rights reserved.
+
+This repository and its contents (including but not limited to
+"Theoretical Foundations" and "The Human Firewall Framework" and all
+associated text, diagrams, and derivative materials) are the exclusive
+intellectual property of the copyright holder named above. Except as
+expressly permitted below, no part of this repository may be copied,
+reproduced, distributed, published, publicly performed, adapted, or used
+in any form, by any means, for any purpose — commercial or
+non-commercial — without the prior written permission of the copyright
+holder.
+
+## Permitted uses
+
+Notwithstanding the above, the copyright holder grants the following
+limited permissions to any person accessing this repository on GitHub:
+
+1. **Forking and cloning for the purpose of contribution.** You may fork
+   or clone this repository solely in order to propose changes,
+   corrections, or additions back to this repository (e.g., via a pull
+   request opened against the original repository), subject to the
+   terms in `CONTRIBUTING.md`.
+2. **Personal, private reading and reference.** You may read, save, and
+   reference a personal copy of this material for your own private,
+   non-commercial understanding and study.
+3. **Short quotation with attribution.** You may quote brief excerpts
+   (a few sentences) in commentary, criticism, or academic citation,
+   provided you give clear attribution to the copyright holder and a
+   link back to this repository, consistent with ordinary fair-use /
+   fair-dealing norms.
+
+## Prohibited uses
+
+Unless you have received prior written permission from the copyright
+holder, you may NOT:
+
+- Use this material, in whole or in part, for any commercial purpose,
+  including but not limited to paid training programs, consulting
+  deliverables, published books, or commercial software/products.
+- Redistribute, republish, mirror, or host copies of this material
+  (in original or modified form) outside of a fork maintained for the
+  sole purpose of contributing back to this repository.
+- Present this work, or any substantial adaptation of it, as your own.
+- Remove or obscure attribution to the copyright holder or the ORCID
+  identifier above.
+
+## Contributions
+
+By submitting a contribution (e.g., a pull request) to this repository,
+you agree that your contribution may be incorporated into this work
+under these same "All Rights Reserved" terms, and you assign or license
+your contribution to the copyright holder to the fullest extent
+permitted by applicable law, while retaining attribution as a
+contributor where appropriate.
+
+## No warranty
+
+This material is provided "as is," without warranty of any kind,
+express or implied.
+
+---
+
+For permissions beyond those granted above (including commercial
+licensing), contact the copyright holder directly.

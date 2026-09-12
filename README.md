@@ -2,7 +2,7 @@
 
 **A research-grounded approach to social engineering defense, built on cognitive science rather than blame and checklists.**
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1818--6955-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1818-6955)
 
 ---
@@ -49,7 +49,13 @@ If you reference this framework or the literature review, please cite it — see
 
 ## License
 
-This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — you're free to share and adapt it, with attribution. See [`LICENSE`](LICENSE).
+**All rights reserved.** This is not an open-license (e.g. MIT/CC-BY) project.
+
+You're welcome to **fork this repository and open pull requests** to propose corrections, additions, or new sources — that's the intended way to contribute (see [`CONTRIBUTING.md`](CONTRIBUTING.md)). You may also read and reference this material privately and quote brief excerpts with attribution.
+
+What's **not** permitted without written permission: commercial use, republishing or mirroring this material elsewhere, or presenting it (or an adaptation of it) as your own work.
+
+Full terms are in [`LICENSE`](LICENSE).
 
 ## Author
 
