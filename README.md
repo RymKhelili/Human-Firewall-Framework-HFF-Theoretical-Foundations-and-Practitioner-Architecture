@@ -9,13 +9,13 @@
 
 ## What this is
 
-Most cybersecurity awareness training rests on two assumptions: that people are the "weakest link" in security, and that repeating facts and policies changes behavior under real attack conditions. This repository lays out why both assumptions don't hold up against the research — and builds a practitioner framework, the **Human Firewall Framework (HFF)**, on top of what the research suggests instead.
+Most cybersecurity awareness training rests on two assumptions: that people are the "weakest link" in security, and that repeating facts and policies changes behavior under real attack conditions. This repository lays out why both assumptions don't hold up against the research and builds a practitioner framework, the **Human Firewall Framework (HFF)**, on top of what the research suggests instead.
 
 The project is split into two parts:
 
 | Part | Document | What it covers |
 |------|----------|-----------------|
-| I | [`docs/01-theoretical-foundations.md`](docs/01-theoretical-foundations.md) | A literature review across information security, cognitive psychology, and behavioral science — covering the "weakest link" trope, controlled trials of awareness training, Cognitive Security, dual-process theory, persuasion science, memory neuroscience, inoculation theory, and behavior change science. |
+| I | [`docs/01-theoretical-foundations.md`](docs/01-theoretical-foundations.md) | A literature review across information security, cognitive psychology, and behavioral science covering the "weakest link" trope, controlled trials of awareness training, Cognitive Security, dual-process theory, persuasion science, memory neuroscience, inoculation theory, and behavior change science. |
 | II | [`docs/02-human-firewall-framework.md`](docs/02-human-firewall-framework.md) | The applied practitioner architecture built from Part I: four functions (removing blame, teaching mechanism over checklist, inoculation through controlled exposure, and engineering for retention), plus a research-driven, adversarially-tested methodology. |
 | III | [`docs/03-case-study-application.md`](docs/03-case-study-application.md) | A worked case study mapping the four HFF functions onto ten social engineering attack vectors, spanning both workplace and individual/family contexts. |
 
@@ -48,13 +48,13 @@ Both documents are marked as living — expect revisions as the underlying resea
 
 If you reference this framework or the literature review, please cite it — see [`CITATION.cff`](CITATION.cff) for the machine-readable citation, or cite directly:
 
-> [Your Name]. *The Human Firewall Framework: Theoretical Foundations and Applied Practitioner Architecture.* (2026). https://orcid.org/0009-0004-1818-6955
+> Rym Khelili. *The Human Firewall Framework: Theoretical Foundations and Applied Practitioner Architecture.* (2026). https://orcid.org/0009-0004-1818-6955
 
 ## License
 
 **All rights reserved.** This is not an open-license (e.g. MIT/CC-BY) project.
 
-You're welcome to **fork this repository and open pull requests** to propose corrections, additions, or new sources — that's the intended way to contribute (see [`CONTRIBUTING.md`](CONTRIBUTING.md)). You may also read and reference this material privately and quote brief excerpts with attribution.
+You're welcome to **fork this repository and open pull requests** to propose corrections, additions, or new sources that's the intended way to contribute (see [`CONTRIBUTING.md`](CONTRIBUTING.md)). You may also read and reference this material privately and quote brief excerpts with attribution.
 
 What's **not** permitted without written permission: commercial use, republishing or mirroring this material elsewhere, or presenting it (or an adaptation of it) as your own work.
 
