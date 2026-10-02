@@ -9,7 +9,7 @@
 
 ## What this is
 
-Most cybersecurity awareness training rests on two assumptions: that people are the "weakest link" in security, and that repeating facts and policies changes behavior under real attack conditions. This repository lays out why both assumptions don't hold up against the research — and builds a practitioner framework, the **Human Firewall Framework (HFF)**, on top of what the research suggests instead.
+Most cybersecurity awareness training rests on two assumptions: that people are the "weakest link" in security, and that repeating facts and policies changes behavior under real attack conditions. This repository lays out why both assumptions don't hold up against the research and builds a practitioner framework, the **Human Firewall Framework (HFF)**, on top of what the research suggests instead.
 
 The project is split into four parts:
 
